@@ -16,7 +16,7 @@
 let a = 23
 let b="arisha"
 let c = true
-let d=null // object
+let d=null // datatype --> object
 let e;
 console.log(typeof a);
 console.log(typeof b);
