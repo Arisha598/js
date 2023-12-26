@@ -1,4 +1,4 @@
-//Conversion i js
+//Conversion in js
 let score = "33abc"
 console.log(typeof score);
 
