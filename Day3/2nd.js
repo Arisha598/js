@@ -7,4 +7,5 @@ console.log(str3);
 //Problem oocuured when these ex
 console.log("1"+2)
 console.log(1+"2")
-console.log("1"+2+2)
+console.log("1"+2+2)  //:-> The output is 122
+console.log(1+2+"3") //:-> The output is 33
