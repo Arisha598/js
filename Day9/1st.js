@@ -11,3 +11,8 @@ console.log(newdate.toLocaleDateString())
 
 //type of 
 console.log(typeof newdate)
+
+//imp
+newdate.toLocaleString('default', {
+    weekday:"long"
+})

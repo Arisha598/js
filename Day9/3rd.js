@@ -11,3 +11,4 @@ console.log(mydate.getSeconds());
 console.log(mydate.getTimezoneOffset());
 console.log(mydate.getUTCDate());
 console.log(mydate.getUTCMinutes());
+
